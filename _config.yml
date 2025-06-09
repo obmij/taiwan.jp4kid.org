@@ -1,0 +1,17 @@
+title: JP4Kid - Child Protection Resources
+email: info@jp4kid.org
+description: "救助兒童明確定義出兒童保護為，預防與應對兒童遭受虐待、忽視、剝削和暴力的措施和結構。"
+baseurl: ""
+url: "jp4kid.org"
+markdown: kramdown
+theme: jekyll-theme-so-simple
+plugins:
+  - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+        layout: "post"
